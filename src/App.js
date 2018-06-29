@@ -114,7 +114,6 @@ const App = () => (
             <Label>Sociología</Label>
             <Label>Educación</Label>
           </Labels>
-
         </Right>
       </Body>
     </Page>
