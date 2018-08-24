@@ -75,7 +75,7 @@ const App = () => (
           <Description>Práctica profesional. Refactorización e implementeación de Redux en una apliación React. Solución de <em>bugs</em> en código legado. Metodología ágil <em>Scrum</em>.</Description>
           <br />
           <Section>Manejo de Idiomas</Section>
-          <Description>Nivel avanzdo en inglés escrito y oral. ALTE 3.</Description>
+          <Description>Nivel avanzdo en inglés escrito y hablado. ALTE 3.</Description>
         </Left>
         <Right>
           <Section>Educación</Section>
@@ -93,7 +93,7 @@ const App = () => (
           <Date>Diciembre 2017</Date>
           <Description>Durante el verano desarrolle algúnos paquetes y los publiqué en en registro de npm. Hice contribuciones menores a una librería de componentes. Trato de mantener mi perfil de Github activo.</Description>
           <Date>Abril 2016</Date>
-          <Description>Participante en el primer Hackathon organizado por Facebook en Chile</Description>
+          <Description>Participante en el primer Hackathon organizado por Facebook en Chile.</Description>
           <br />
           <Section>Habilidades Técnicas</Section>
           <Date>Herramientas</Date>
